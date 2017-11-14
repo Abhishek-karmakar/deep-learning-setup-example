@@ -51,3 +51,11 @@ Building ANN Part 1 - What libraries to use and installating those libraries.
 	Upgrade the libraries to the most updaed version. 
 	- conda update --all # this will update all the libraries in Anaconda and Spyder  
 
+ANN part 2
+	
+	Part1 - Data PreProcessing
+		- Use the DataPreProcessing - Classification template. 
+	
+
+	Part2 - Building the Deeplearning Model.
+
