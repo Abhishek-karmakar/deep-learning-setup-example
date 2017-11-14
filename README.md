@@ -55,7 +55,15 @@ ANN part 2
 	
 	Part1 - Data PreProcessing
 		- Use the DataPreProcessing - Classification template. 
-	
+		- Chose to correct Independent variables to make the matrix of features.
+		- Who might be more likely to leave the bank. 
+		- Credit Score, Geography, Gender, Age, Tenure, Balance, NumOfProducts, HasCard, isActiveMember, EstimatedSalary are the variables in the Dataset which make an impact if the person will leave or stay with the bank. These variables might an impact on finding out the Dependent variable. 
+		- The ANN will try to figure out the relation between the Dependent variable from the independent variable. 
+		- X stores all the variales on which the dependency is there. 
+		- Y stores all the dependent variables. (this case only one, Exited or not) 
+
+		- Before Splitting the dataset, the values in the dataset must already be encoded. We can see that there are two Values in the dependent variable which needs to be encoded. 
+		- Create a dummy variable 
 
 	Part2 - Building the Deeplearning Model.
 
